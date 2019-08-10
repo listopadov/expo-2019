@@ -1,0 +1,5 @@
+import '../../scss/test.scss';
+
+(() => {
+
+})();
